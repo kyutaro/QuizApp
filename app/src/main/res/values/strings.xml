@@ -1,0 +1,24 @@
+<resources>
+    <!-- 共通 -->
+    <string name="app_name">QuixApp</string>
+    <string name="return_question_list">回答をやめる</string>
+    <!-- TOP -->
+    <string name="main">Main Activity</string>
+    <string name="top_headline">TOP画面</string>
+    <string name="to_question_list">問題一覧へ</string>
+    <!-- 質問一覧 -->
+    <string name="question_list">問題一覧</string>
+    <string name="to_question">問題リスト1</string>
+    <string name="return_main">戻る</string>
+    <!-- 解答画面 -->
+    <string name="question_num_text">問題：</string>
+    <integer name="question_num">1</integer>
+    <string name="question_text">問題内容</string>
+    <string name="yes">はい</string>
+    <string name="no">いいえ</string>
+    <!-- 解答結果画面 -->
+    <string name="answer">解答は...</string>
+    <string name="question_result">正解/不正解</string>
+    <string name="question_end">全ての問題が終了しました</string>
+    <string name="next_question">次の問題へ</string>
+</resources>
